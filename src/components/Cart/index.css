@@ -38,12 +38,12 @@
 }
 
 /* Write your CSS here */
-.remove-all-btn{
+.remove-all-btn {
   display: flex;
   align-self: flex-end;
   color: #0b69ff;
   background-color: transparent;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
   font-weight: 500;
   line-height: 1.5;
@@ -51,8 +51,8 @@
   outline: none;
   cursor: pointer;
 }
-@media screen and (min-width: 768px){
-  .remove-all-btn{
+@media screen and (min-width: 768px) {
+  .remove-all-btn {
     font-size: 16px;
   }
 }
